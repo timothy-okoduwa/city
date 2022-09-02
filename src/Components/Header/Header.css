@@ -1,0 +1,8 @@
+.nnav{
+    /* background-color: red; */
+    width: 30%;
+    display: flex;
+}
+.Bar{
+    background-color: rgb(255, 255, 255);
+}
